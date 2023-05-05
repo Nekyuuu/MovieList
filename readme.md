@@ -11,3 +11,4 @@
 * CSS SHIT
 * API
 * Search system
+* Responsive
