@@ -1,4 +1,4 @@
-<h1 align="center">Proxy Checker</h1>
+<h1 align="center">Movie List</h1>
 
 <p align='center'>
     <b>My first JavaScript Project</b><br>
